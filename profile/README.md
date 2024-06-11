@@ -45,7 +45,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach us anytime: bitxsrilanka@gmail.com<br/><br/>
  💬 &emsp; Ask us about anything [here](https://chat.whatsapp.com/C55AUnp8olm0kSbF22TbdB)
 
 </p>
