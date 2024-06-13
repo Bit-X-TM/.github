@@ -79,5 +79,5 @@
 <hr/>
 <br/>
 
-#Our Team
+<h1>Our Team</h1>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Nethindu+Thaminda;Desindu+Sri+Jayanula;Jithula+Bhasitha)](https://git.io/typing-svg)
