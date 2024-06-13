@@ -71,9 +71,6 @@
 
 <br/>
 
-##Our Team
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Nethindu+Thaminda;Desindu+Sri+Jayanula;Jithula+Bhasitha)](https://git.io/typing-svg)
-
 <p align="left">
   <a href="https://github.com/orgs/Bit-X-TM/repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -82,4 +79,5 @@
 <hr/>
 <br/>
 
-
+#Our Team
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Nethindu+Thaminda;Desindu+Sri+Jayanula;Jithula+Bhasitha)](https://git.io/typing-svg)
