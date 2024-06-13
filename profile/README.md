@@ -1,76 +1,103 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bitxsl.Appex-mdv1" />
+<!--
+<h2 align="center">
+  Welcome to Al Siam World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+-->
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+WE+are+Bit+x!;" />
-</h1>
+<!--
+<p align="center">
+  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
-<h3 align="center">A Whatsapp bot developers from Sri lanka 🇱🇰</h3>
+ -->
 
-<br/>
+<a href="https://komarev.com/ghpvc/?username=BIT-X-TM">
+  <img align="right" src="https://komarev.com/ghpvc/?username=BIT-X-TM&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-<div align="center">
+
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, We are
+                <b><a target="_blank" href="https://github.com/Bit-X-TM">BIT X ᵀᴹ</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <br>
+    「 We are Whatsapp Bot Developers from <b>Sri Lanka</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+
+
+
+ # About us
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here]([https://github.com/bitxsl](https://github.com/Bitxsl/Apex-MD-V1))**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-  <br/><br/><br/>
-</div>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach us anytime: Bitxsrilanka@gmail.com<br/><br/>
+ 💬 &emsp; Ask us about anything [here]([https://github.com/alsiam/alsiam/issues](https://chat.whatsapp.com/C55AUnp8olm0kSbF22TbdB))
 
+</p>
+
+<br/>
+<br/>
+<br/>
+
+## Use To Code
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+
+
+<p align="left">
+  <a href="https://github.com/orgs/Bit-X-TM/repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
 <hr/>
+<br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<p align="center">
+  <a href="https://github.com/Bit-X-TM">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bit-X-TM&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Bit-X-TM">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bit-X-TM&theme=radical" alt="GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/Bit-X-TM"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Bit-X-TM&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Bit-X-TM"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Bit-X-TM&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+</a>
 
-<br/><br/>
 
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='http://www.ebox.free.nf/?i=1' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
+[Our Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bit-X-TM&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)!
