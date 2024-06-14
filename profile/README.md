@@ -20,7 +20,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, We are
-                <b><a target="_blank" href="https://github.com/Bit-X-TM">BIT X ᵀᴹ</a></b>
+                <b><a target="_blank" href="https://github.com/Bit-X-TM">BIT X</a></b>
         </samp>
 </h3>
 
