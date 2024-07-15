@@ -19,7 +19,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hҽყ ƚԋҽɾҽ, Wҽ αɾҽ
+        <samp>&gt; Hҽყ Tԋҽrҽ, Wҽ αrҽ
                 <b><a target="_blank" href="https://github.com/Bit-X-TM">𝗕𝗜𝗧 𝗫</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
         </samp>
 </h3>
