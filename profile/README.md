@@ -28,7 +28,9 @@
 <p align="center"> 
   <samp>
     <br>
+    <bold>
     「 We are Whatsapp Bot Developers from <b>Sri Lanka</b> 」
+    <\bold>
     <br>
     <br>
   </samp>
