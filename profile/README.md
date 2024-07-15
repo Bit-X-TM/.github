@@ -19,7 +19,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, We are
+        <samp>&gt; 𝗛𝗘𝗬 𝗧𝗛𝗘𝗥𝗘!, We are
                 <b><a target="_blank" href="https://github.com/Bit-X-TM">BIT X</a></b>
         </samp>
 </h3>
@@ -28,9 +28,7 @@
 <p align="center"> 
   <samp>
     <br>
-    <bold>
     「 We are Whatsapp Bot Developers from <b>Sri Lanka</b> 」
-    <\bold>
     <br>
     <br>
   </samp>
