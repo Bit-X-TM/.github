@@ -55,7 +55,9 @@
 
 ## 📊 Languages and Tools
 
-<img alt="Development" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNseTBjNDlyZGR0bWY0ZXVmNTdhaXFnejdwbHpib2k3ZmNjMXprbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" /> </p>
+<center>
+<img alt="Development" width="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNseTBjNDlyZGR0bWY0ZXVmNTdhaXFnejdwbHpib2k3ZmNjMXprbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" /> 
+<\center>
 
 ## Use To Code
 
