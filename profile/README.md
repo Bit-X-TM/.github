@@ -10,7 +10,6 @@
 </p>
 
  -->
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <a href="https://komarev.com/ghpvc/?username=BIT-X-TM">
   <img align="right" src="https://komarev.com/ghpvc/?username=BIT-X-TM&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -21,7 +20,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; 𝗛𝗘𝗬 𝗧𝗛𝗘𝗥𝗘!, We are
-                <b><a target="_blank" href="https://github.com/Bit-X-TM">BIT X</a></b>
+                <b><a target="_blank" href="https://github.com/Bit-X-TM">BIT X</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
         </samp>
 </h3>
 
