@@ -35,12 +35,11 @@
 </p>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
  # About us
  
 <p>
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach us anytime: Bitxsl@hotmail.com<br/><br/>
@@ -53,11 +52,11 @@
 <br/>
 
 ## 📊 Languages and Tools
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <img align="center" alt="Development" width="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNseTBjNDlyZGR0bWY0ZXVmNTdhaXFnejdwbHpib2k3ZmNjMXprbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" /> 
 
 ## Use To Code
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
